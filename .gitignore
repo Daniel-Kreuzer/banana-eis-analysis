@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Reproducible outputs
+output/
+outputs/
+fit_output/
+noise_study_output/
+ML_Results/
+*.joblib
+
